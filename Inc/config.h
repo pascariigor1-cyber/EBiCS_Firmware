@@ -79,9 +79,9 @@
 
 //--------------------------------------------------------------------
 //Speed settings
-#define WHEEL_CIRCUMFERENCE 2200
-#define GEAR_RATIO 11 //11 for BionX IGH3
-#define SPEEDLIMIT 25
+#define WHEEL_CIRCUMFERENCE 2070
+#define GEAR_RATIO 4.3 //11 for BionX IGH3
+#define SPEEDLIMIT 50
 #define PULSES_PER_REVOLUTION 1
 #define SPEEDSOURCE INTERNAL
 #define SPEEDFILTER 1
